@@ -83,7 +83,7 @@
     "sequelize-typescript": "^2.1.1",
     "socket.io-client": "^4.4.0",
     "tslib": "^2.0.0",
-    "typeorm": "^0.2.31",
+    "typeorm": "^0.3.22",
     "webpack": "^5.68.0"
   },
   "devDependencies": {
