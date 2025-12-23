@@ -54,7 +54,7 @@
     "@nestjs/mongoose": "^9.0.2",
     "@nestjs/platform-express": "^8.2.3",
     "@nestjs/platform-fastify": "^8.2.4",
-    "@nestjs/platform-socket.io": "^8.2.4",
+    "@nestjs/platform-socket.io": "^9.1.1",
     "@nestjs/platform-ws": "^8.2.3",
     "@nestjs/sequelize": "^8.0.0",
     "@nestjs/serve-static": "^2.2.2",
@@ -81,7 +81,7 @@
     "rxjs": "^7.5.2",
     "sequelize": "^6.11.0",
     "sequelize-typescript": "^2.1.1",
-    "socket.io-client": "^4.4.0",
+    "socket.io-client": "^4.5.0",
     "tslib": "^2.0.0",
     "typeorm": "^0.2.31",
     "webpack": "^5.68.0"
