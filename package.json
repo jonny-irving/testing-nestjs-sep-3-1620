@@ -84,7 +84,7 @@
     "socket.io-client": "^4.4.0",
     "tslib": "^2.0.0",
     "typeorm": "^0.2.31",
-    "webpack": "^5.68.0"
+    "webpack": "^5.105.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
